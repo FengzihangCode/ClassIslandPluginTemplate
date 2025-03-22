@@ -26,6 +26,7 @@
 				<ProjectItem ReplaceParameters="true" TargetFileName="launchSettings.json">launchSettings.json</ProjectItem>
 			</Folder>
 			<ProjectItem ReplaceParameters="false" TargetFileName="icon.png">icon.png</ProjectItem>
+			<ProjectItem ReplaceParameters="false" TargetFileName=".gitignore">.gitignore</ProjectItem>
 			<ProjectItem ReplaceParameters="true" TargetFileName="manifest.yml">manifest.yml</ProjectItem>
 			<ProjectItem ReplaceParameters="true" TargetFileName="Plugin.cs">Plugin.cs</ProjectItem>
 			<ProjectItem ReplaceParameters="false" TargetFileName="README.md">README.md</ProjectItem>
